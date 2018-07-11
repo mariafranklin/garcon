@@ -1,0 +1,306 @@
+h1,h2,h3,h4,h5{
+	font-family: 'Rancho', cursive;
+}
+
+h2{
+	font-size: 70px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+
+
+p{
+	    font-family: 'Merriweather Sans', sans-serif;
+	   color:#616f7d;
+}
+
+b, strong {
+    font-weight: 700;
+    color: black;
+    }
+
+.top-title{
+    font-family: 'Merriweather Sans', sans-serif;
+	    font-size: 20px;
+	    text-align: center;
+	        font-weight: 500;
+    color: #f15f2a;
+    position: relative;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 1;
+}
+
+
+   @media (min-width: 768px){
+.navbar-right {
+    float: right!important;
+    padding: 2%;
+    margin-right: -10%;
+}
+
+ .navbar-inverse{
+       background-color: #2220 !important;
+    border-color: #08080800 !important;
+    margin-top: 2%;
+   }
+
+   .navbar-nav>li {
+    float: left;
+    padding: 0px 30px;
+}
+}
+
+
+.main-img{
+	margin-left: 5%
+}
+
+
+.logo{
+width: 70%;
+}
+
+.top-bar{
+	background:#f15f2a;
+	padding: 10px 0px;
+}
+
+.top-bar a,.top-bar p{
+color: white;
+padding: 0px;
+margin: 0px;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: #f25f2a;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #f25f2a;
+}
+
+.hero-title{
+	    font-family: "Merriweather Sans";
+    font-weight: 900;
+    color:white;
+    text-align: center;
+    font-size: 90px;
+}
+
+
+.header-center{
+		font-family: 'Rancho', cursive;
+		    font-weight: 900;
+		    font-size: 50px;
+		    text-align: center;
+		    color:white;
+}
+
+.header-center span{
+padding: 0px 20px;
+	}
+
+	.hero{
+		background: url('../images/slider.jpg');
+		padding-bottom: 120px;
+	}
+
+	.header-center i{
+		font-size: 30px;
+	}
+
+	.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.img-block{
+	padding: 20px;
+}
+
+.space{
+	padding: 30px;
+}
+
+.special-block{
+	padding: 50px;
+}
+
+.parallax1{
+    background: url(../images/parallel.jpg);
+
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.parallax2{
+    background: url(../images/garcontesti.jpg);
+
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.inner-warp{
+	background:#090909c4;
+	padding: 100px 0px;
+
+}
+
+.dot{
+	color: white;
+}
+
+.text-white{
+	color: white;
+}
+
+.content-wrapper{
+	padding-left: 30px;
+}
+
+.products-01.style-02 .products .item:not(:last-child) {
+    margin-bottom: 25px;
+}
+
+.item-left {
+    width: 88%;
+    float: left;
+    overflow: hidden;
+}
+
+.products-01.style-02 .products .item-left .title {
+    display: table-cell;
+    font-size: 24px;
+    position: relative;
+}
+
+.products-01.style-02 .products .item-left .des {
+    font-weight: 400;
+    color: #616f7d;
+    font-family: "sans-serif";
+}
+
+.products-01.style-02 .products .item-right {
+    width: 10%;
+    float: right;
+    padding-left: 5px;
+    color: #1d1b20;
+}
+
+
+.products-01 .products .item .price {
+    color: #f15f2a;
+    font-size: 22px;
+    line-height: 1;
+}
+
+.item-left h5{
+	font-size: 20px;
+}
+
+
+.products-01.style-02 .products .item-right {
+    width: 10%;
+    float: right;
+    padding-left: 5px;
+    color: #1d1b20;
+}
+
+.products .item-right .price {
+    float: right;
+}
+
+
+.price {
+    color: #f15f2a;
+    font-family: 'Rancho', cursive;
+        padding-top: 18px;
+    font-size: 22px;
+    line-height: 1;
+}
+
+.testi-content{
+	width: 60%;
+	font-size: 15px;
+	margin-left: 20%;
+}
+
+.testicolor{
+color:#c9c9c9 !important;
+}
+
+.reserv-dark{
+    padding: 12.2% 0px;
+    background-color: #090909;
+    position: relative;
+
+}
+
+
+
+.swin-sc-contact-form .form-group .input-group {
+    width: 50%;
+    float: left;
+    padding: 0 15px;
+}
+
+.form-group{
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+.swin-btn{
+	min-width: 50px;
+    min-height: 20px;
+    padding: 10px 35px;
+    background-color: #f15f2a;
+    border: 1px solid #f15f2a;
+    text-transform: uppercase;
+    border-radius: 25px;
+    display: inline-block;
+    color:white;
+    position: relative;
+}
+
+.swin-sc-contact-form .form-group .input-group .form-control {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 0;
+    border-radius: 0;
+    height: 40px;
+    color: #a2a2a2;
+    box-shadow: none;
+}
+
+
+.swin-sc-contact-form .form-group .input-group .input-group-addon {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 0;
+    border-radius: 0;
+    color: #9d9d9d;
+    position: relative;
+    min-width: 40px;
+}
+
+.reser-img{   
+
+ padding: 0px;
+    margin: 0px;
+
+}
+
+.parallax3{
+	    background: url(../images/footer.jpg);
+
+    background-size: cover;
+    background-attachment: fixed;
+}
