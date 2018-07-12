@@ -240,10 +240,9 @@ color:#c9c9c9 !important;
 }
 
 .reserv-dark{
-    padding: 12.2% 0px;
     background-color: #090909;
     position: relative;
-
+    padding: 8.07% 0;
 }
 
 
@@ -292,15 +291,34 @@ color:#c9c9c9 !important;
 }
 
 .reser-img{   
-
- padding: 0px;
+background:url('../images/reserve.jpg');
+    background-size: cover;
+ padding: 20.9%;
     margin: 0px;
 
 }
 
 .parallax3{
 	    background: url(../images/footer.jpg);
-
     background-size: cover;
     background-attachment: fixed;
+}
+
+.inner-warp-footer{
+    background:#090909c4;
+       padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.res-row{
+        padding-right: 0px !important;
+    padding-left: 0px !important;
+} 
+
+.footer,.footer p{
+    color: white;
+}
+
+.footer h4{
+padding-bottom: 50px;
 }

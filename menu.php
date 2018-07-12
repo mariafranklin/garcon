@@ -1,11 +1,12 @@
 <div class="top-bar"><div class="container ">
             <div class="col-sm-6 col-xs-12">
-<p>Mobile</p>
+<p><i class="fa fa-volume-control-phone"></i>&nbsp;&nbsp;0415 868 550</p>
+
             </div>
 
 
-            <div class="col-sm-6 col-xs-12">
-<p>Email</p>
+            <div class="col-sm-6 col-xs-12 text-right">
+<p><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;info@garcon.com.au</p>
             </div>
 
 

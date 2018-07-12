@@ -179,7 +179,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <section>
 	
-<div class="">
+<div class="container-fluid res-row">
 
 <div class="col-sm-6 reserv-dark">
 <h3 class="text-center text-white">Reservation</h3>
@@ -247,7 +247,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 
 <div class="col-sm-6 reser-img">
-<img src="images/reserve.jpg" class="img-responsive"/>
+
 </div>
 
 </div>
@@ -255,34 +255,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </section>
 
 
-<section class="parallax3 footer">
-
-
-<div class="inner-warp-footer">
-<div class="container">
-
-<div class="col-sm-3">
-<h4 class="text-white text-center">Quick Links</h4>
-</div>
-
-
-<div class="col-sm-3">
-<h4 class="text-white text-center">Contact</h4>
-</div>
-
-
-<div class="col-sm-3">
-<h4 class="text-white text-center">Here We Are</h4>
-</div>
-
-
-</div>
-
-</div>
-	
-
-
-</section>
+<?php include 'footer.php'; ?>
 
 
 <footer>
